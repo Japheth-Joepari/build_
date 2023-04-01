@@ -1,0 +1,16 @@
+{
+  "__entry_css_mods__": {
+    "/home/joepari/Documents/projects/next13experiment/app/page": [
+      "/home/joepari/Documents/projects/next13experiment/app/assets/css/style.css",
+      "/home/joepari/Documents/projects/next13experiment/node_modules/next/font/google/target.css?{\"path\":\"app/layout.jsx\",\"import\":\"Montserrat\",\"arguments\":[{\"weight\":[\"400\",\"700\"],\"subsets\":[\"latin\"],\"variable\":\"--font-montserrat\"}],\"variableName\":\"montserrat\"}"
+    ],
+    "/home/joepari/Documents/projects/next13experiment/app/[movie]/page": [
+      "/home/joepari/Documents/projects/next13experiment/app/assets/css/style.css",
+      "/home/joepari/Documents/projects/next13experiment/node_modules/next/font/google/target.css?{\"path\":\"app/layout.jsx\",\"import\":\"Montserrat\",\"arguments\":[{\"weight\":[\"400\",\"700\"],\"subsets\":[\"latin\"],\"variable\":\"--font-montserrat\"}],\"variableName\":\"montserrat\"}"
+    ]
+  },
+  "/home/joepari/Documents/projects/next13experiment/app/layout.jsx": [
+    "/home/joepari/Documents/projects/next13experiment/node_modules/next/font/google/target.css?{\"path\":\"app/layout.jsx\",\"import\":\"Montserrat\",\"arguments\":[{\"weight\":[\"400\",\"700\"],\"subsets\":[\"latin\"],\"variable\":\"--font-montserrat\"}],\"variableName\":\"montserrat\"}",
+    "/home/joepari/Documents/projects/next13experiment/app/assets/css/style.css"
+  ]
+}
